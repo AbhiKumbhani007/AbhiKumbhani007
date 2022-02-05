@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiKumbhani007
-- 👀 I’m interested in Web Development, Back-end development
-- 🌱 I’m currently learning Web Development, Back-end development
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently learning Flutter Development
 - 📫 How to reach me abhi1234kumbhani@gmail.com
 
 <!---
