@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Flutter Development<br>I’m interested in Flutter & Node js Development<br>How to reach me abhi1234kumbhani@gmail.com
+I’m interested in FullStack Development<br>How to reach me abhi1234kumbhani@gmail.com
 
 
 ## 🌐 Socials:
