@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in FullStack Development<br>How to reach me abhi1234kumbhani@gmail.com
+Working as intern in FullStack Development at Vrutti Tech<br>How to reach me abhi1234kumbhani@gmail.com
 
 
 ## 🌐 Socials:
